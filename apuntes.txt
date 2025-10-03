@@ -1,0 +1,13 @@
+/// 3 de octubre
+
+Estructuras fundamentales de un programa :
+    -> Clases { todo lo que quiero que pase en el programa }. Base / estructura / molde / plantilla para poder crear objetos
+    -> Metodos() { la funcionalidad que quiero que se ejecute }
+    -> Variables { los datos que se guardan en un espacio en memoria }
+
+1. Planifico -> pienso en la posible solucion -> ej. Java MailServer
+2. Diseñar la solucion -> escribir como funciona la app 
+    - Diseño de pantallas ( ej.  wireframe )
+    - UML ( ej. diagrama de base de datos )
+    - Diagrama de clases
+    - Diagrama de flujo
